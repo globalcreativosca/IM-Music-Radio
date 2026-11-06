@@ -1,0 +1,6 @@
+{
+  "name": "Radio Online",
+  "description": "Aplicación de radio online con reproductor en vivo, control de volumen, chat de oyentes y dashboard de administración protegido con contraseña.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
